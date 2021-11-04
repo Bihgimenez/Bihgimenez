@@ -1,5 +1,5 @@
 - 👋 Hello, World! Eu sou a Bianca Gimenez, Dev em formação ✌️🎓 
-- 🌱 Estou estudando HTML/CSS/JavaScrip
+- 🌱 Estou estudando HTML/CSS/JavaScript
 - 📫 Como me encontrar: Linkedin /biancagimenez | Instagram @bih_gimenez
 
 <!---
